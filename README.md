@@ -1,6 +1,4 @@
 # hello-world
-test repository
-
 An effective information security management system (“ISMS”) preserves the confidentiality, integrity and availability of information by applying documented risk management processes.  Integrating the ISMS with the organization's other processes and management structure is necessary so that information security will be considered in the design of processes, systems, and controls.  An effective ISMS will give confidence to interested parties that risks are adequately managed.
 
 The ISMS should be designed to meet the objectives of the organization, so understanding the business context where the program will operate is critical for success.  The ISMS should also take into consideration the intentions and direction of the organization.
